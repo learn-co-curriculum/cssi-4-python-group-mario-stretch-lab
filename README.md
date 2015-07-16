@@ -58,9 +58,6 @@ Modify your code to make every other pyramid inverted. Example:
 ####  ####
 ```
 
-### Part V: Rainbow Magic
-Find a  gem that allows you to give your pyramids color. Print out a pyramid that covers the colors of the rainbow.
-
 *Inspiration for this lab comes from one of the labs in Harvard's CS50 class (Intro to Computer Science)
 
 ### Optional Practice with Git!
