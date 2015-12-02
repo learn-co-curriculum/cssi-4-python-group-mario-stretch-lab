@@ -72,3 +72,5 @@ Everyone should write their code in the `pyramid.py` file, but each team should 
 Use the `git pull` command to pull down the code from Github. You'll also need to use `git merge` to merge each branch into the master branch and combine your changes.
 
 here is a [cheat sheet](https://gist.github.com/dfenjves/6c3832ae7c9d1cf504f2) if you need some help remembering how to use git commands.
+
+<a href='https://learn.co/lessons/cssi-4-python-group-mario-stretch-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
