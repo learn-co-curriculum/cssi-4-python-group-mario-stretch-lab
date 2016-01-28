@@ -73,4 +73,4 @@ Use the `git pull` command to pull down the code from Github. You'll also need t
 
 here is a [cheat sheet](https://gist.github.com/dfenjves/6c3832ae7c9d1cf504f2) if you need some help remembering how to use git commands.
 
-<a href='https://learn.co/lessons/cssi-4-python-group-mario-stretch-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4-python-group-mario-stretch-lab' title='Itsa Mario*'>Itsa Mario*</a> on Learn.co and start learning to code for free.</p>
